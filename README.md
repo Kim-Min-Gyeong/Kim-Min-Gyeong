@@ -1,23 +1,19 @@
 
+<h1>Hi🖐 I'm Mingyeong Kim!</h1>
 
-<div align="center">
+<div align="left">
   
- 
-  <h3>📚 Tech Stacks 📚</h3>
-  <h5>🪄 Platforms & Languages 🪄</h5>
+  <h3>Connect with me: <h3>
+  <a href="kimmin4051@naver.com">kimmin4051@naver.com</a>
+    
+  <h3>Languages and Tools: </h3>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  
-  <h5>🔨 Tools 🔨</h5>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <a href="https://github.com/Kim-Min-Gyeong"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/</a>
-  
-  <h5>🎨 SNS & Portfolio 🎨<h5>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  <br>
    
   ---
   <h3>👩‍💻 My Github Stats 👩‍💻<h3>
