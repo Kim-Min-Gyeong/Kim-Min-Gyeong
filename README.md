@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  <a href="https://github.com/Kim-Min-Gyeong"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <br>
    
