@@ -1,5 +1,5 @@
 
-<h1>Hi🖐 I'm Mingyeong Kim!</h1>
+<h1>Hi🖐 I'm Min-gyeong Kim!</h1>
 
 <div align="left">
   
@@ -8,10 +8,13 @@
 
     
   <h3>Languages and Tools: </h3>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GithubActions&logoColor=white"/>
   <br>
    
   ---
