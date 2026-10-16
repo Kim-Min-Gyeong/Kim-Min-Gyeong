@@ -2,15 +2,13 @@
 
 <h2>Hi👋, I'm mingyeong Kim!</h2>
 
----
-
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### ⚙️ CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=GitHubActions&logoColor=white)
 
 ### 🛠️ Backend
@@ -30,13 +28,6 @@
   | 2024.03 - 2024.11 | 🪖 [**WDAM (War Data Analysis Module)**](https://github.com/WarDataAnalysisModule) | 대규모 인공지능 언어모델을 활용한 전장 지식 자동 생성 기술 연구 및 개발 | Java, Python, Spring Boot, MySQL, AWS |
   | 2025.04 - 2025.08 | 🤖 [**Koco**](https://github.com/orgs/100-hours-a-week/teams/21) | 알고리즘 해설 제공 웹 서비스 | AWS, Terraform, GitHub Actions, Docker |
   | 2025.02 - 2025.10 | 🤵🏻‍♀️ [**제면소 (제대로 된 면접을 소개합니다)**](https://github.com/je-myeon-so) | LLM 기반의 모의면접 웹 서비스 | AWS, Terraform, GitHub Actions, Docker |
-
----
-
-### 🥇 Algorithm
-<a href="https://solved.ac/kimmin4051/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmin4051" />
-</a>
 
 ---
 
